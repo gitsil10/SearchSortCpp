@@ -1,0 +1,4 @@
+C:\Users\silva\AppData\Local\JetBrains\CLion2022.3\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/c/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/cygwin/x64/ninja.exe" -G Ninja -S "/cygdrive/c/Users/silva/Projects/Academics/PROG23672/Application/Practical/Week 8/SearchSort" -B "/cygdrive/c/Users/silva/Projects/Academics/PROG23672/Application/Practical/Week 8/SearchSort/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/silva/Projects/Academics/PROG23672/Application/Practical/Week 8/SearchSort/cmake-build-debug
